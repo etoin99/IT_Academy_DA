@@ -6,7 +6,7 @@ Este proyecto representa la culminación del **Sprint 11** del itinerario de **A
 
 ### 1. Conexión y Extracción de Datos (SQL to Python)
 En lugar de trabajar con archivos estáticos, implementé una conexión dinámica con **MySQL Workbench** utilizando `SQLAlchemy`. Esto permite:
-* Automatizar la carga de tablas (`users`, `transactions`, `companies`).
+* Automatizar la carga de tablas ('users', 'transactions', 'companies').
 * Garantizar la integridad de los datos desde la fuente original.
 
 ### 2. Análisis Exploratorio de Datos (EDA)
@@ -25,7 +25,7 @@ Utilizando **Seaborn** y **Matplotlib**, diseñé visualizaciones que responden 
 ### 4. Integración con Power BI
 El análisis culmina con la exportación de los datos procesados hacia **Power BI**, donde:
 * Se integraron visualizaciones nativas con el procesamiento avanzado realizado en Python.
-* Se diseñó un dashboard dinámico (`.pbix`) para facilitar la toma de decisiones basada en datos.
+* Se diseñó un dashboard dinámico ('.pbix') para facilitar la toma de decisiones basada en datos.
 
 ## 🛠️ Stack Tecnológico
 * **Base de Datos**: MySQL Workbench.
@@ -34,8 +34,8 @@ El análisis culmina con la exportación de los datos procesados hacia **Power B
 * **Business Intelligence**: Power BI Desktop.
 
 ## 📂 Archivos en esta Carpeta
-* `Tasca S11.01...ipynb`: El núcleo del análisis, desde la conexión SQL hasta la generación de gráficos estadísticos.
-* `Tasca S11.01...pbix`: El informe final interactivo que consume los datos procesados en Python.
+* 'Tasca S11.01...ipynb': El núcleo del análisis, desde la conexión SQL hasta la generación de gráficos estadísticos.
+* 'Tasca S11.01...pbix': El informe final interactivo que consume los datos procesados en Python.
 
 ---
 *Análisis Estadístico e Integración de BI - Emilio Tornos*
