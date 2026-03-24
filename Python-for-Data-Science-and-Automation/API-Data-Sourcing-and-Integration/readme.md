@@ -1,6 +1,6 @@
 # API Data Sourcing and Integration 🌐
 
-Este proyecto forma parte del **Sprint 12** del itinerario de Data Analytics. El objetivo principal es demostrar la capacidad de interactuar con servicios externos mediante **APIs REST**, procesar datos complejos en formato **JSON** y convertirlos en activos útiles mediante **Pandas**.
+Este proyecto forma parte del **Sprint 12** del itinerario de **Data Analytics**. El objetivo principal es demostrar la capacidad de interactuar con servicios externos mediante **APIs REST**, procesar datos complejos en formato **JSON** y convertirlos en activos útiles mediante **Pandas**.
 
 ## 🚀 Contenido del Proyecto
 
